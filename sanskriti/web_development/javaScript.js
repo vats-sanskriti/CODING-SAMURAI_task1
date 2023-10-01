@@ -6,8 +6,9 @@ function clearScreen() {
 
 
 // This function display values
-// function display(value) {
-//     document.getElementById("result").value += value; }
+ function display(value) {
+   document.getElementById("result").value += value;
+ }
 
 
 // This function evaluates the expression and return result
